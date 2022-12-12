@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-Apaixonado por tecnologia, o aprendizado é continuo e sempre haverá um próximo nível. Never stop learning!
+Passionate about technology, learning is continuous and there will always be a next level. Never stop learning!
 
 ### Redes sociais
 
