@@ -13,10 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yabaernesto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center"> 
-  [![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:yabaernesto)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/rodrigo-goncalves-santana/)](https://www.instagram.com/yaba.ernesto/)
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-yabaernesto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yabaernesto@gmail.com)](mailto:yabaernesto@gmail.com)
 
 ## Main skills:
 <div style="display: inline-block">
@@ -34,10 +31,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="">
 </div>
 
-Passionate about technology, learning is continuous and there will always be a next level. Never stop learning!
+Programming is like a pirate ship, it's up to you to join the crew and go towards new adventures. never stop learning!
 
 ### Redes sociais
 
